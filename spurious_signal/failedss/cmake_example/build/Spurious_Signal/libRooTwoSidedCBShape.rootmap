@@ -1,0 +1,4 @@
+[ libRooTwoSidedCBShape.so ]
+# List of selected classes
+class RooTwoSidedCBShape
+header RooTwoSidedCBShape.h

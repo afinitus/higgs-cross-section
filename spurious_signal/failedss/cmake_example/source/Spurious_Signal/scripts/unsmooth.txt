@@ -1,0 +1,2 @@
+/global/cfs/projectdirs/atlas/hanshuo/Tutorial/HGamma_Package/input/hist_yy_random1000_split_105160.root
+/global/cfs/projectdirs/atlas/hanshuo/Tutorial/HGamma_Package/input/hist_yy_random1000_split_100165.root
